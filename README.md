@@ -1,5 +1,3 @@
-# AI-Agent-Orchestration-Framework
-A scalable multi-agent framework designed for business automation using CrewAI and Python
 from crewai import Agent, Task, Crew, Process
 
 # Define the Market Research Agent
